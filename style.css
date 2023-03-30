@@ -1,0 +1,22 @@
+body{
+    font-family:'Roboto' , sans-serif;
+}
+nav.main-menu{
+background-color: beige;
+}
+.main-menu-ul{
+list-style-type:'🌼';
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
+.main-menu-link:hover{
+    color: aliceblue;
+    background-color: orange;
+}
+.main-menu-link{
+    padding: 5px;
+}
